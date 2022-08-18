@@ -1,0 +1,23 @@
+﻿id,full_name,short_name,oem,bus_dimension,bus_cost,bus_kerb_weight,GVW,battery_id,battery_chemistry_id,battery_chemistry,battery_capacity,battery_weight,power_consumption,Air Conditioning,Seating Capacity,Charger Type
+1,Lito,,Foton-PMI,Mini (6 - 7 m),,,8500,1,1,LFP,77,,0.68,Yes,16,GB/T; CCS
+2,Ebus K6,,Olectra,Mini (6 - 7 m),,,9555,2,1,LFP,120,,0.76,Yes,22,GB/ T
+3,Ultra 9/9m,,Tata Motors,Midi (9 m),,,10350,3,2,NMC,124,,0.83,Optional,31,CCS2
+4,Ebus K7,,Olectra,Midi (9 m),,,13500,4,1,LFP,180,,1.08,Yes,31,GB/ T
+5,Regio,,Foton-PMI,Midi (9 m),,,12500,5,1,LFP,102,,1.00,Yes,30,GB/T; CCS
+6,ECOLIFE 9m,,JBM Solaris,Midi (9 m),,,13500,6,1,LFP,160,,1.08,Optional,32,CCS2
+7,Urban 9/12m,,Tata Motors,Standard (12 m),,,18050,7,2,NMC,186,,1.44,Optional,40,CCS2
+8,Starbus 4/12m,,Tata Motors,Standard (12 m),,,19500,8,2,NMC,250,,1.56,Optional,31,CCS2
+9,Ebus K9,,Olectra,Standard (12 m),,,18000,9,1,LFP,324,,1.44,Yes,39,GB/ T
+10,Urban,,Foton-PMI,Standard (12 m),,,18000,10,1,LFP,152,,1.44,Yes,35,GB/T; CCS
+11,ECOLIFE 12m,,JBM Solaris,Standard (12 m),,,18000,11,1,LFP,200,,1.44,Optional,40,CCS2
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
